@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-25T10:49:47 IST" name="Default suite" finished-at="2024-10-25T10:50:06 IST" duration-ms="19025">
+    <groups>
+    </groups>
+    <test started-at="2024-10-25T10:49:47 IST" name="Default test" finished-at="2024-10-25T10:50:06 IST" duration-ms="19025">
+      <class name="testingbaba_test.date_test">
+        <test-method is-config="true" signature="getlaunchurl()[pri:0, instance:testingbaba_test.date_test@2d3379b4]" started-at="2024-10-25T10:49:47 IST" name="getlaunchurl" finished-at="2024-10-25T10:50:03 IST" duration-ms="16294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getlaunchurl -->
+        <test-method signature="closebtn()[pri:0, instance:testingbaba_test.date_test@2d3379b4]" started-at="2024-10-25T10:50:03 IST" name="closebtn" finished-at="2024-10-25T10:50:03 IST" duration-ms="82" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebtn -->
+        <test-method signature="practicebtn()[pri:1, instance:testingbaba_test.date_test@2d3379b4]" started-at="2024-10-25T10:50:04 IST" name="practicebtn" finished-at="2024-10-25T10:50:06 IST" duration-ms="2201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- practicebtn -->
+        <test-method signature="widgwtsbtn()[pri:2, instance:testingbaba_test.date_test@2d3379b4]" started-at="2024-10-25T10:50:06 IST" name="widgwtsbtn" finished-at="2024-10-25T10:50:06 IST" duration-ms="77" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- widgwtsbtn -->
+        <test-method signature="pickbtn()[pri:3, instance:testingbaba_test.date_test@2d3379b4]" started-at="2024-10-25T10:50:06 IST" name="pickbtn" finished-at="2024-10-25T10:50:06 IST" duration-ms="148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pickbtn -->
+        <test-method signature="datein()[pri:4, instance:testingbaba_test.date_test@2d3379b4]" started-at="2024-10-25T10:50:06 IST" name="datein" finished-at="2024-10-25T10:50:06 IST" duration-ms="152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- datein -->
+      </class> <!-- testingbaba_test.date_test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
